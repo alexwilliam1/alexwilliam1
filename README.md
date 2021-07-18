@@ -1,6 +1,6 @@
 <h1> <b> ᴀʟᴇx ᴡɪʟʟɪᴀᴍ </b> </h1>
 
-:books: I am always in constant learning
+:books: I'm always in constant learning
 
 👨‍💻 I'm currently focused on mobile development at <a href="https://github.com/speedwayti/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/74838884?s=400&u=c7a24ef85332052698348815c20bcd82435355b0&v=4" alt="speedwayti" height="25" width="25" /> Speedway TI :zap:</a>
 
