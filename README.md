@@ -38,7 +38,7 @@ Some of the stuffs I have worked with:
 
 In case you wanna reach out to me:
 
-![GitHub followers](https://img.shields.io/github/followers/alexwilliam1?labelColor=000000&color=000000&logo=github&label=Followers&logoColor=white&style=flat-square)
+<!--![GitHub followers](https://img.shields.io/github/followers/alexwilliam1?labelColor=000000&color=000000&logo=github&label=Followers&logoColor=white&style=flat-square)-->
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20William-000000?style=flat-square&labelColor=000000&logo=linkedin&logoColor=007ACC&link=https://www.linkedin.com/in/alexwilliam)](https://www.linkedin.com/in/alexwilliam)
 [![Twitter Badge](https://img.shields.io/badge/-@_alexwilliam_-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/_alexwilliam_)](https://twitter.com/_alexwilliam_)
 [![Instagram Badge](https://img.shields.io/badge/-@_alexwilliam_-000000?style=flat-square&labelColor=000000&logo=instagram&logoColor=C13584&link=https://www.instagram.com/_alexwilliam_/)](https://www.instagram.com/_alexwilliam_/)
