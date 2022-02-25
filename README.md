@@ -1,4 +1,4 @@
-<h1> <b> ᴀʟᴇx ᴡɪʟʟɪᴀᴍ </b> </h1>
+<h1> <b> ᴀʟᴇx </b> </h1>
 
 :books: I'm always in constant learning
 
