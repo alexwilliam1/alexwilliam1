@@ -1,10 +1,10 @@
-<h3> <b> Alex William </b> </h3>
+<h3> <b> Alex 👨‍💻</b> </h3>
 
 <!--:books: I'm always in constant learning
 
 👨‍💻 I'm currently focused on mobile development at <a href="https://github.com/speedwayti/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/74838884?s=400&u=c7a24ef85332052698348815c20bcd82435355b0&v=4" alt="speedwayti" height="25" width="25" /> Speedway TI :zap:</a>-->
 
-👨‍💻 I’m currently studying: 
+I’m currently studying: 
 
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript)
@@ -36,10 +36,10 @@ Some of the stuffs I have worked with:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 
-Social:
+<!--Social:
 
 [![Twitter Badge](https://img.shields.io/badge/_-%23000000.svg?logo=X&logoColor=white&link=https://twitter.com/_alexwl_)](https://twitter.com/_alexwl_)
 [![Instagram Badge](https://img.shields.io/badge/_-000000.svg?logo=Instagram&logoColor=%23E4405F&link=https://www.instagram.com/alexlwilliam/)](https://www.instagram.com/alexlwilliam)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/_-000000?logo=linkedin-white&logoColor=0A66C2&link=https://www.linkedin.com/in/alexwilliam)](https://www.linkedin.com/in/alexwilliam/)
-<!--[![Outlook Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&labelColor=000000&logo=microsoft-outlook&logoColor=blue&link=mailto:alexwilliamll@outlook.com)](mailto:alexwilliamll@outlook.com)-->
+[![Outlook Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&labelColor=000000&logo=microsoft-outlook&logoColor=blue&link=mailto:alexwilliamll@outlook.com)](mailto:alexwilliamll@outlook.com)-->
 
